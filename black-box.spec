@@ -25,8 +25,8 @@ of it. In the box crystals are reflecting your shots. You have to
 guess where the are hidden.
 
 %description -l pl
-Strzelaj±c do czarnego boksu, gracz mo¿e obserwowaæ, w którym miejscu
-pociski z niego wylatuj±. W boksie s± ukryte kryszta³y, które odbijaj±
+Strzelaj±c do czarnego pude³ka, gracz mo¿e obserwowaæ, w którym miejscu
+pociski z niego wylatuj±. W pude³ku s± ukryte kryszta³y, które odbijaj±
 strza³y. Zadaniem gracza jest odnalezienie miejsca ukrycia ka¿dego
 kryszta³u.
 
