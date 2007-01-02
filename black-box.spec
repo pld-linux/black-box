@@ -11,7 +11,7 @@ License:	GPL v2+
 Group:		X11/Applications/Games
 Source0:	http://user.cs.tu-berlin.de/~karlb/black-box/%{name}-%{version}.tar.gz
 # Source0-md5:	e17d7a0ff13adb690c6eaced99ee4d00
-URL:		http://www.linux-games.com/black-box
+URL:		http://www.linux-games.com/black-box/
 BuildRequires:	SDL-devel >= 1.2.0
 BuildRequires:	SDL_image-devel >= 1.2.0
 %{?with_SDL_mixer:BuildRequires:	SDL_mixer-devel >= 1.2.0}
