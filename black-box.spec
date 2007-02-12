@@ -3,7 +3,7 @@
 %bcond_without	SDL_mixer	# build without SDL_mixer
 #
 Summary:	Simple logical game
-Summary(pl):	Prosta gra logiczna
+Summary(pl.UTF-8):   Prosta gra logiczna
 Name:		black-box
 Version:	1.4.7
 Release:	1
@@ -24,11 +24,11 @@ You shoot into the black box and you can look where your shots go out
 of it. In the box crystals are reflecting your shots. You have to
 guess where the are hidden.
 
-%description -l pl
-Strzelaj±c do czarnego pude³ka, gracz mo¿e obserwowaæ, w którym
-miejscu pociski z niego wylatuj±. W pude³ku s± ukryte kryszta³y, które
-odbijaj± strza³y. Zadaniem gracza jest odnalezienie miejsca ukrycia
-ka¿dego kryszta³u.
+%description -l pl.UTF-8
+StrzelajÄ…c do czarnego pudeÅ‚ka, gracz moÅ¼e obserwowaÄ‡, w ktÃ³rym
+miejscu pociski z niego wylatujÄ…. W pudeÅ‚ku sÄ… ukryte krysztaÅ‚y, ktÃ³re
+odbijajÄ… strzaÅ‚y. Zadaniem gracza jest odnalezienie miejsca ukrycia
+kaÅ¼dego krysztaÅ‚u.
 
 %prep
 %setup -q
