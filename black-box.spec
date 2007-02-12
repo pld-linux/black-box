@@ -3,7 +3,7 @@
 %bcond_without	SDL_mixer	# build without SDL_mixer
 #
 Summary:	Simple logical game
-Summary(pl.UTF-8):   Prosta gra logiczna
+Summary(pl.UTF-8):	Prosta gra logiczna
 Name:		black-box
 Version:	1.4.7
 Release:	1
