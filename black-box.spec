@@ -5,12 +5,12 @@
 Summary:	Simple logical game
 Summary(pl.UTF-8):	Prosta gra logiczna
 Name:		black-box
-Version:	1.4.7
+Version:	1.4.8
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications/Games
 Source0:	http://user.cs.tu-berlin.de/~karlb/black-box/%{name}-%{version}.tar.gz
-# Source0-md5:	e17d7a0ff13adb690c6eaced99ee4d00
+# Source0-md5:	f0cf19c54a3d2c34c221d67baf78add5
 URL:		http://www.linux-games.com/black-box/
 BuildRequires:	SDL-devel >= 1.2.0
 BuildRequires:	SDL_image-devel >= 1.2.0
